@@ -1,0 +1,11 @@
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\puja_k\source\repos\Phase1Assignment\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
